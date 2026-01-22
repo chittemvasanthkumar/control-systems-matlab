@@ -15,7 +15,7 @@ This project demonstrates modeling and analysis of linear time-invariant (LTI) c
 Sample simulation results are shown below.
 
 ### Step Response
-![Step Response](plots/open loop step response.png)
+![Step Response](plots/Open Loop Step Response.png)
 
 ### Root Locus
 ![Root Locus](plots/root_locus.png)
