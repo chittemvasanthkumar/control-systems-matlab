@@ -21,7 +21,7 @@ Sample simulation results are shown below.
 ![Root Locus](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Root%20locus.png?raw=true)
 
 ### Bode Plot
-![Bode Plot](plots/bode_plot.png)
+![Bode Plot](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Bode%20Plot.png?raw=true)
 
 ### Gain and Phase Margins
 ![Margins](plots/margins.png)
