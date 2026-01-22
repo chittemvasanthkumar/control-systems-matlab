@@ -15,7 +15,7 @@ This project demonstrates modeling and analysis of linear time-invariant (LTI) c
 Sample simulation results are shown below.
 
 ### Step Response
-![Step Response](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Bode%20Plot.png)
+![Step Response](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Open%20Loop%20Step%20Response.png?raw=true)
 
 ### Root Locus
 ![Root Locus](plots/root_locus.png)
