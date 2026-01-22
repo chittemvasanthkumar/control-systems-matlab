@@ -30,3 +30,10 @@ rlocus(G2);
 grid on;
 title('Root locus of second order system')
 
+[Gm, Pm, Wcg, Wcp] = margin(G2);
+
+Gm
+Pm
+
+
+
