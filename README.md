@@ -18,7 +18,7 @@ Sample simulation results are shown below.
 ![Open loop Step Response](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Open%20Loop%20Step%20Response.png?raw=true)
 
 ### Root Locus
-![Root Locus](plots/root_locus.png)
+![Root Locus](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Bode%20Plot.png?raw=true)
 
 ### Bode Plot
 ![Bode Plot](plots/bode_plot.png)
