@@ -1,5 +1,3 @@
-# control-systems-matlab
-Modeling and Stability Analysis of Control Systems using MATLAB
 # Control Systems Modeling and Stability Analysis using MATLAB
 
 This project demonstrates modeling and analysis of linear time-invariant (LTI) control systems using MATLAB.
