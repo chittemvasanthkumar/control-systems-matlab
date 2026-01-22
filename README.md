@@ -24,7 +24,7 @@ Sample simulation results are shown below.
 ![Bode Plot](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Bode%20Plot.png?raw=true)
 
 ### Gain and Phase Margins
-![Margins](plots/margins.png)
+![Margins](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Margins.png?raw=true)
 
 ## Key Concepts
 - Transfer function modeling
