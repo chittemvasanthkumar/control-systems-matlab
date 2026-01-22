@@ -4,15 +4,6 @@ close all;
 
 s = tf('s');
 
-% First order system
-
-G1 = 1/(s + 1);
-
-figure;
-step(G1);
-title('Step Response of First Order System');
-grid on;
-
 % Second order system
 
 G2 = 10/(s^2 + 2*s + 10);
@@ -38,3 +29,4 @@ figure;
 rlocus(G2);
 grid on;
 title('Root locus of second order system')
+
