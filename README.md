@@ -18,7 +18,7 @@ Sample simulation results are shown below.
 ![Step Response](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Open%20Loop%20Step%20Response.png?raw=true)
 
 ### Closed loop Step Response
-![Step Response]()
+![Step Response](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Closed%20Loop%20Step%20Response.png?raw=true)
 
 ### Root Locus
 ![Root Locus](https://github.com/chittemvasanthkumar/control-systems-matlab/blob/main/plots/Root%20locus.png?raw=true)
