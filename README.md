@@ -11,6 +11,20 @@ This project demonstrates modeling and analysis of linear time-invariant (LTI) c
 ## Tools Used
 - MATLAB
 - Control System Toolbox
+## Results
+Sample simulation results are shown below.
+
+### Step Response
+![Step Response](plots/open loop step response.png)
+
+### Root Locus
+![Root Locus](plots/root_locus.png)
+
+### Bode Plot
+![Bode Plot](plots/bode_plot.png)
+
+### Gain and Phase Margins
+![Margins](plots/margins.png)
 
 ## Key Concepts
 - Transfer function modeling
